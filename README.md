@@ -1,4 +1,4 @@
-![header]<p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/5ec8289a-9f25-4f20-983e-17d10f43580e" alt="Project Banner" width="100%" />
 </p>
 
