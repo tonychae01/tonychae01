@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=230&section=header&text=Jaewon%20Kim&animation=fadeIn&desc=Consistency%20of%20effort%20over%20the%20long%20run%20is%20everything&descAlignY=55&descSize=16&descAlign=53&fontAlignY=38&fontColor=f7f5f5&fontSize=90)
+![header]!(https://github.com/user-attachments/assets/1fe402a2-0eb7-4748-885e-2722c98bd447)
 
 ## "One by One"
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feric98040&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tonyschae@gmail.com)](mailto:tonyschae@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tony-chae-3bb600249/)](www.linkedin.com/in/tony-chae-3bb600249/)
 ### Tony Chae | Sungin Chae
@@ -10,13 +9,13 @@
 👋 Hello, I'm an undergraduate student in Electrical and Computer Engineering & Philosophy at University of Texas at Austin and a researcher at Wang's Lab. 
 
 Hi, I am interested in Brains, Minds, Machines and Beyond. 
-I dream of a world where humans overcome and transcend their breakthroughs in positive ways and to re-understand our consciousness through AI and computer which could penetrates time.
 
 My research interest in Brain-Computer Interfaces:
 - **1) Developing real-time neural decoders that could generalize across small/large neural population with minimally invasive technique.**
 - **2) Bi-directional neuromodulation with closed-loop neurofeedback.**
 - **3) Multimodal neural prosthetics (speech/somato/visual/motor)**
-
+  
+I dream of a world where humans overcome and transcend their breakthroughs in positive ways and to re-understand our consciousness through AI and computer which could penetrates time.
 I also have deep interest in fusion of AI ethics, philosophy, meditation, aesthetic(art) and diverse local cultural heritages, martial arts, like the oldest disciplines closely linked to human creativity and cognitive abilities, that interdisciplinarily meets with most forefront technology such as AI that interprets qualitative data in a different way than humans do. 
 
 Contact : tsc2262@utexas.edu
@@ -24,7 +23,7 @@ Feel free to connect for collaboration or discussions on advanced AI methods :)
 
 ## 🎓 Profile
 
-- University of Texas at AUstin Undergraduate (2022–present)  
+- University of Texas at Austin Undergraduate (2022–present)  
   - Major in Electrical & Computer Engineering | Philsophy 
   - Researcher @ [`Wang's Lab`](https://wanggroup.bme.utexas.edu/)
 - Research Interests: Brain Computer Interface | Next-Gen AI | Neural Decoding | Neural Prosthetics | Bi-directional Neuromodulation | AI ethics
