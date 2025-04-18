@@ -1,6 +1,18 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5ec8289a-9f25-4f20-983e-17d10f43580e" alt="Project Banner" width="100%" />
-</p>
+![header](https://capsule-render.vercel.app/api
+?type=waving
+&color=0:c2e59c,100:64b3f4
+&height=230
+&section=header
+&text=Tony%20Chae
+&animation=fadeIn
+&fontColor=f7f5f5
+&fontSize=90
+&fontAlignY=38
+&desc=Brains,%20Minds,%20and%20Beyond
+&descAlign=53
+&descAlignY=55
+&descSize=16
+)
 
 ## "One by One"
 
