@@ -46,6 +46,7 @@ Feel free to connect for collaboration or discussions on advanced AI methods :)
 ![MNE](https://img.shields.io/badge/MNE-77216F?style=for-the-badge&logo=mne&logoColor=white)
 ![EEGLAB](https://img.shields.io/badge/EEGLAB-F8761E?style=for-the-badge)
 
+![Python](https://img.shields.io/badge/Python-E04C2C?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
