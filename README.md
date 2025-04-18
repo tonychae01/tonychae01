@@ -3,7 +3,7 @@
 ## "One by One"
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tonyschae@gmail.com)](mailto:tonyschae@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tony-chae-3bb600249/](www.linkedin.com/in/tony-chae-3bb600249/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=(www.linkedin.com/in/tony-chae-3bb600249/)](www.linkedin.com/in/tony-chae-3bb600249/)
 ### Tony Chae | Sungin Chae
 
 👋 Hello, I'm an undergraduate student in Electrical and Computer Engineering & Philosophy at University of Texas at Austin and a researcher at Wang's Lab. 
