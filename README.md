@@ -1,5 +1,7 @@
-![header][image](https://github.com/user-attachments/assets/2a0624bb-3586-46e8-bb5b-e3c3017e8f23)
-
+![header]<p align="center">
+  <img src="(https://github.com/user-attachments/assets/5ec8289a-9f25-4f20-983e-17d10f43580e)
+" alt="Project Banner" width="100%" />
+</p>
 
 ## "One by One"
 
