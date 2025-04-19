@@ -21,6 +21,7 @@ I also have deep interest in fusion of AI ethics, philosophy, meditation, aesthe
 Contact : tsc2262@utexas.edu
 Feel free to connect for collaboration or discussions on advanced AI methods :)
 
+
 ## 🎓 Profile
 
 - University of Texas at Austin Undergraduate (2022–present)  
