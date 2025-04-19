@@ -28,7 +28,7 @@ Feel free to connect for collaboration or discussions on advanced AI methods :)
   - Researcher @ [`Wang's Lab`](https://wanggroup.bme.utexas.edu/)
 - Research Interests: Brain Computer Interface | Next-Gen AI | Neural Decoding | Neural Prosthetics | Bi-directional Neuromodulation | AI ethics
 > Seleced Projects Can be found: 
-> - [![GitHub Repository](https://img.shields.io/badge/GitHub-Selected_Projects-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Selected-Project-Overview)
+> [![GitHub Repository](https://img.shields.io/badge/GitHub-Selected_Projects-181717?style=for-the-badge&logo=github)](https://github.com/tonychae01/Selected-Project-Overview)
 
 
 ## 🔧 Deep Learning Tools & library
