@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=230&section=header&text=Tony%20Chae&animation=fadeIn&fontColor=f7f5f5&fontSize=90&fontAlignY=38&desc=Brains,%20Minds,%20Machines,%20and%20Beyond&descAlign=53&descAlignY=60&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c2e59c,100:64b3f4&height=230&section=header&text=Tony%20Chae&animation=fadeIn&fontColor=f7f5f5&fontSize=90&fontAlignY=38&desc=Brains,%20Minds,%20Machines,%20and%20Beyond&descAlign=53&descAlignY=60&descSize=20)
 
 ## "One by One"
 
